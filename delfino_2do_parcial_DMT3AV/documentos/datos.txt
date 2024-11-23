@@ -1,0 +1,10 @@
+Carrera: Diseño Multimedial
+Materia: Diseño y Programación Web 1
+Año: 2024
+Cuatrimestre: 4to cuatrimenstre
+Comisión: DMT3AV
+Turno: Tarde
+Apellido y nombre de la alumna: Delfino Abril
+Docente: Toyos Omar
+Carácter de entrega: Segundo Parcial
+URL WebApp:
